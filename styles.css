@@ -5,3 +5,6 @@ body{
     text-align: center;
     font-family: "Arial";
 }
+.boxed {
+  border: 1px solid green ;
+} 
